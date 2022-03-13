@@ -19,16 +19,18 @@ h1, h2 {
   text-transform: uppercase;
 }
 
-figcaption {
-  font-size: .8rem;
-  font-style: italic;
-  text-align: center;
-}
+
 
 nav {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "Patua One", sans-serif;
+}
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
 }
 
 nav ol {
