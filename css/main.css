@@ -1,11 +1,11 @@
-html{
+html {
   box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: georgia, serif;
   line-height: 1.5;
 }
 
- *::after {
+*::after {
   box-sizing: inherit;
 }
 
@@ -28,6 +28,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: georgia, serif;
 }
 
 nav ol {
@@ -45,5 +46,5 @@ nav a:hover {
 }
 
 .intro {
-  font-size: 1rem
+  font-size: 1rem;
 }
