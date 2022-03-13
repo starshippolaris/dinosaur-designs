@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #f2f1ed;
   font-family: georgia, serif;
-  line-height: 1.5;
+  line-height: 2;
 }
 
 *, *::before, *::after {
@@ -10,7 +10,7 @@ html {
 }
 
 img {
-  width: 99%;
+  width: 100%;
 }
 
 h1, h2 {
