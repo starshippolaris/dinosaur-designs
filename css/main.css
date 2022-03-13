@@ -5,7 +5,7 @@ html {
   line-height: 1.5;
 }
 
-*::after {
+,*::after {
   box-sizing: inherit;
 }
 
